@@ -1,0 +1,2 @@
+# ops-kube-argocd
+Argocd
