@@ -1,0 +1,54 @@
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: monitoring-system
+
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: newrelic-system
+
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: obs-system
+
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: vantage
+
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: kube-policies
+
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: pe
+
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: core
+
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: security
+
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: risk
+  
